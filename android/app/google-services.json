@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "1049580333366",
+    "project_id": "tanapon-20275",
+    "storage_bucket": "tanapon-20275.firebasestorage.app"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1049580333366:android:025fa10cdb0d270afa2b97",
+        "android_client_info": {
+          "package_name": "com.example.flutter_application_songs"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyCXdV970vq6Gbn3dhFl-qvCSNhk8ZO4isc"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
